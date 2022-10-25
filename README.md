@@ -1,2 +1,2 @@
 # kalechip22.github.io
-# Welcome to my website!
+![Waterlily Painting](/repository/images/waterlily.jpg)
