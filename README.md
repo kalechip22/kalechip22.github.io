@@ -1,2 +1,2 @@
 # kalechip22.github.io
-![Waterlily Painting](/repository/images/waterlily.jpg)
+![Waterlily Painting](/images/waterlily.jpg)
